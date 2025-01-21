@@ -1,0 +1,74 @@
+{
+  "sysAppData": {
+    "defaultEdition": "PRO",
+    "editions": {
+      "PRO": {
+        "appId": "4F371CD755CE4635A26E1C40C33D31B0",
+        "isAvail": "true",
+        "isEnabled": "true",
+        "name": "Plex-Earth Pro",
+        "shortName": "Pro",
+        "folder": "Plex-Earth Pro"
+      },
+      "BASIC": {
+        "appId": "A581249E293B4CB39050085209826797",
+        "isAvail": "true",
+        "isEnabled": "true",
+        "name": "Plex-Earth Basic",
+        "shortName": "Basic",
+        "folder": "Plex-Earth Basic"
+      },
+      "LITE": {
+        "appId": "926B59EF76824460B98CEA9E8ECF5CA4",
+        "isAvail": "true",
+        "isEnabled": "true",
+        "name": "Plex-Earth Lite",
+        "shortName": "Lite",
+        "folder": "Plex-Earth Lite"
+      },
+      "X-VIRTO-PRO": {
+        "appId": "E66D5AF7FCAF4954801DAE0B3526006F",
+        "isAvail": "true",
+        "isEnabled": "true",
+        "name": "Plex-Earth Pro for Virto",
+        "shortName": "Pro",
+        "folder": "Plex-Earth Pro for Virto"
+      },
+      "X-VIRTO-BASIC": {
+        "appId": "0D3B1446F43147949274BA7411CAF640",
+        "isAvail": "true",
+        "isEnabled": "true",
+        "name": "Plex-Earth Basic for Virto",
+        "shortName": "Basic",
+        "folder": "Plex-Earth Basic for Virto"
+      }
+    }
+  },
+  "sysVars": {},
+  "sysStrings": {},
+  "sysConstants": {
+    "[$URL_GLOBAL_CDN]": "https://pe26-v-app-cdn.plexearth360.com",
+    "[$CORE_DEFAULT_IMAGERY_PROVIDER]": "1B3FB1EC-80AA-428F-A04F-9308E566FD35",
+    "[$CORE_DEFAULT_TERRAIN_PROVIDER]": "5610CB2F-9CA4-4659-8618-8AB7FA4A7C27",
+    "[$CORE_DEFAULT_GEOCODING_PROVIDER]": "977496FF-B5A5-4260-A02D-DE7E4F076E25",
+    "[$CORE_SWITCH_AIRBUS]": "true",
+    "[$CORE_SWITCH_AZURE_MAPS]": "true",
+    "[$CORE_SWITCH_GOOGLE_MAPS]": "true",
+    "[$CORE_SWITCH_HEXAGON]": "true",
+    "[$CORE_SWITCH_NEARMAP]": "true",
+    "[$CORE_SWITCH_MAXAR]": "true",
+    "[$CORE_CREDITS_PER_IMAGE_AIRBUS]": "5",
+    "[$CORE_CREDITS_PER_IMAGE_HEXAGON]": "20",
+    "[$CORE_CREDITS_PER_IMAGE_MAXAR]": "10",
+    "[$CORE_CREDITS_PER_IMAGE_NEARMAP]": "25"
+  },
+  "sysConditionSets": {},
+  "sysSelections": {},
+  "sysCommands": {},
+  "sysCommandLimitSets": {},
+  "sysNamedActions": {},
+  "sysNamedFuncs": {},
+  "sysCampaigns": {},
+  "sysNotifs": {},
+  "sysRefs": {}
+}
