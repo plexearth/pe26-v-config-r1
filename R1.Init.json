@@ -57,9 +57,9 @@
     "[$CORE_SWITCH_HEXAGON]": "true",
     "[$CORE_SWITCH_NEARMAP]": "true",
     "[$CORE_SWITCH_MAXAR]": "true",
-    "[$CORE_CREDITS_PER_IMAGE_AIRBUS]": "5",
+    "[$CORE_CREDITS_PER_IMAGE_AIRBUS]": "10",
     "[$CORE_CREDITS_PER_IMAGE_HEXAGON]": "20",
-    "[$CORE_CREDITS_PER_IMAGE_MAXAR]": "10",
+    "[$CORE_CREDITS_PER_IMAGE_MAXAR]": "15",
     "[$CORE_CREDITS_PER_IMAGE_NEARMAP]": "25"
   },
   "sysConditionSets": {},
